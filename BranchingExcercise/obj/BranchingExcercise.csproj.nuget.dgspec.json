@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelsey & Mikael\\source\\repos\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj": {}
+    "C:\\Users\\shife\\Desktop\\C# bootcamp\\BranchPractice\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelsey & Mikael\\source\\repos\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj": {
+    "C:\\Users\\shife\\Desktop\\C# bootcamp\\BranchPractice\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelsey & Mikael\\source\\repos\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj",
+        "projectUniqueName": "C:\\Users\\shife\\Desktop\\C# bootcamp\\BranchPractice\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj",
         "projectName": "BranchingExcercise",
-        "projectPath": "C:\\Users\\Kelsey & Mikael\\source\\repos\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj",
-        "packagesPath": "C:\\Users\\Kelsey & Mikael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelsey & Mikael\\source\\repos\\BranchingExcercise\\BranchingExcercise\\obj\\",
+        "projectPath": "C:\\Users\\shife\\Desktop\\C# bootcamp\\BranchPractice\\BranchingExcercise\\BranchingExcercise\\BranchingExcercise.csproj",
+        "packagesPath": "C:\\Users\\shife\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shife\\Desktop\\C# bootcamp\\BranchPractice\\BranchingExcercise\\BranchingExcercise\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kelsey & Mikael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\shife\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
