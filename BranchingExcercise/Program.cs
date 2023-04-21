@@ -12,6 +12,8 @@
             git push - u origin main
 
             Console.WriteLine("yiding wang");
+            Console.WriteLine("how are you doing 123456789");
+            Console.WriteLine("12365478963214778899655");
 
         }
     }
